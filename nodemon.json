@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "gameofgolf2",
+        "MONGO_PASSWORD": "gameofgolf2",
+        "MONGO_DB_NAME": "test"
+    }
+}
